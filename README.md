@@ -1,4 +1,4 @@
-<img align="center" src="https://media2.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.gif?cid=ecf05e47a4miz05fktzvfcepj39uhl6gegg5hpfl1qkc5emh&rid=giphy.gif&ct=g" alt="alinsbtc">
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="alinsbtc">
 <h1 align="center">Hi 👋, Tôi là Lập Trình Viên Châu Quốc ALin</h1>
 <h3 align="center">Việt Nam </h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
