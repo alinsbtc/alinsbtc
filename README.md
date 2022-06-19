@@ -1,7 +1,33 @@
-<h1 align="center">Hi 👋, I'm Châu Quốc ALin</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="alinsbtc">
+<h1 align="center">Hi 👋, Tôi là Lập Trình Viên Châu Quốc ALin</h1>
+<h3 align="center">Việt Nam </h3>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinsbtc&label=Profile%20views&color=0e75b6&style=flat" alt="alinsbtc" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinsbtc" alt="alinsbtc" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **alin**
+
+- 🌱 I’m currently learning **alin**
+
+- 👯 I’m looking to collaborate on **alin**
+
+- 🤝 I’m looking for help with **alin**
+
+- 📝 Trang blog [alin](alin)
+
+- 💬 Số điện thoại liên hệ **0398471304**
+
+- 📫 Email của tôi **chauquocalin1@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +41,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chauquocalin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chauquocalin" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinsbtc&show_icons=true&locale=en&layout=compact" alt="alinsbtc" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinsbtc&show_icons=true&locale=en" alt="alinsbtc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinsbtc&" alt="alinsbtc" /></p>
