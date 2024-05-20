@@ -46,4 +46,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinsbtc&show_icons=true&locale=en" alt="alinsbtc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinsbtc&" alt="alinsbtc" /></p>
-<p><img align="center" src="https://leetcard.jacoblin.cool/chauquocalin1?ext=activity&" alt="alinsbtc" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/LeetCode?theme=forest&font=Ubuntu%20Mono&ext=activity&" alt="alinsbtc" /></p>
